@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 asgiref==3.5.2
 certifi==2022.6.15
 charset-normalizer==2.1.0
@@ -36,4 +35,4 @@ sqlparse           0.4.2
 urllib3            1.26.9
 Werkzeug           2.1.2
 zipp               3.8.1
->>>>>>> 677eca2eb1a86a7ac627b0247fabc5fbb954ac2f
+
